@@ -73,3 +73,4 @@ L'Assistant Pascal est distribué sous la licence MIT. Pour plus d'informations,
 
 Badges
 ------
+[![Coverage Status](https://coveralls.io/repos/github/user/assistant-pascal/badge.svg?branch=master)](https://coveralls.io/github/user/assistant-pascal?branch=master) [![Code Quality](https://img.shields.io/lgtm/grade/python/g/user/assistant-pascal.svg)](https://lgtm.com/projects/g/user/assistant-pascal/context:python) ![Python Version](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-blue)
